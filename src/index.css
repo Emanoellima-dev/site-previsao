@@ -30,6 +30,6 @@ footer {
 @media (min-width: 100px) and (max-width: 950px){
  a {
    font-size: 1rem;
-   bottom: -950px;
+   bottom: -930px;
  }
 }
